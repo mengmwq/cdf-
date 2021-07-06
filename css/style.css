@@ -1,0 +1,81 @@
+html,body{
+	height: 100%;
+	font-size: 75px;
+}
+.andbg{
+	width: 100%;
+	height: 100%;
+	background: url(../images/bg01.jpg) no-repeat;
+	background-size: 100% 100%;
+}
+.and2{
+	position: absolute;
+	right:27%;
+	margin-left: -1.6rem;
+	bottom: 1.65rem; background-color: #fff;
+	color: #0596FF;
+  font-size:16px;
+	background-size: 100% 100%;
+	width: 3.2rem;
+	height:1.1rem;
+	border-radius:10px;
+	text-align: center;
+	line-height: 1.1rem;
+	font-weight: 800;
+}
+.and{
+	position: absolute;
+	left:50%;
+	margin-left: -1.6rem;
+	bottom: 1.6rem;
+	background: url(../images/icon01.png) no-repeat;
+	background-size: 100% 100%;
+	width: 3.2rem;
+	height:1.2rem
+}
+.iosbg{
+	width: 100%;
+	height: 100%;
+	background: url(../images/bg02.jpg) no-repeat;
+	background-size: 100% 100%;
+}
+.ios{
+	position: absolute;
+	right:50%;
+	margin-left: -1.6rem;
+	bottom: 1.6rem;
+	background: url(../images/icon02.png) no-repeat;
+	background-size: 100% 100%;
+	width: 3.2rem;
+	height:1.2rem
+}
+.ios2{
+	position: absolute;
+	right:27%;
+	margin-left: -1.6rem;
+	bottom: 1.65rem; background-color: #fff;
+	color: #0596FF;
+  font-size:16px;
+	background-size: 100% 100%;
+	width: 3.2rem;
+	height:1.1rem;
+	border-radius:10px;
+	text-align: center;
+	line-height: 1.1rem;
+	font-weight: 800;
+}
+
+.wxbg{
+	width: 100%;
+	height: 100%;
+	background: url(../images/bg03.png) no-repeat;
+	background-size: 100% 100%;
+	position: absolute;
+	height: 100%;
+	width: 100%;
+	left:0;
+	top:0;
+}
+
+
+
